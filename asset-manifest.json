@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WhaleGating/static/css/main.72a737aa.chunk.css",
+    "main.js": "/WhaleGating/static/js/main.6c8d158e.chunk.js",
+    "main.js.map": "/WhaleGating/static/js/main.6c8d158e.chunk.js.map",
+    "runtime-main.js": "/WhaleGating/static/js/runtime-main.b3d52d3a.js",
+    "runtime-main.js.map": "/WhaleGating/static/js/runtime-main.b3d52d3a.js.map",
+    "static/css/2.7d3194d7.chunk.css": "/WhaleGating/static/css/2.7d3194d7.chunk.css",
+    "static/js/2.af6b5a20.chunk.js": "/WhaleGating/static/js/2.af6b5a20.chunk.js",
+    "static/js/2.af6b5a20.chunk.js.map": "/WhaleGating/static/js/2.af6b5a20.chunk.js.map",
+    "static/js/3.48b456f5.chunk.js": "/WhaleGating/static/js/3.48b456f5.chunk.js",
+    "static/js/3.48b456f5.chunk.js.map": "/WhaleGating/static/js/3.48b456f5.chunk.js.map",
+    "index.html": "/WhaleGating/index.html",
+    "static/css/2.7d3194d7.chunk.css.map": "/WhaleGating/static/css/2.7d3194d7.chunk.css.map",
+    "static/css/main.72a737aa.chunk.css.map": "/WhaleGating/static/css/main.72a737aa.chunk.css.map",
+    "static/js/2.af6b5a20.chunk.js.LICENSE.txt": "/WhaleGating/static/js/2.af6b5a20.chunk.js.LICENSE.txt",
+    "static/media/bg.4b3e347e.jpg": "/WhaleGating/static/media/bg.4b3e347e.jpg",
+    "static/media/logo.1c7a4530.png": "/WhaleGating/static/media/logo.1c7a4530.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d52d3a.js",
+    "static/css/2.7d3194d7.chunk.css",
+    "static/js/2.af6b5a20.chunk.js",
+    "static/css/main.72a737aa.chunk.css",
+    "static/js/main.6c8d158e.chunk.js"
+  ]
+}
